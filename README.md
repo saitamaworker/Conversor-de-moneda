@@ -48,7 +48,15 @@
 ##  🚀 <b>COMO FUNCIONA<b>
 <br>
 
-:small_orange_diamond:El usuario introduce un monto en USD, selecciona una moneda de destino (ARS, BOB o BRL), y el programa consulta la Exchange Rate API para obtener las tasas de cambio actuales. El programa realiza la conversión y muestra el resultado en pantalla.
+:small_orange_diamond:El usuario introduce un monto en USD.
+
+:small_orange_diamond:selecciona una moneda de destino (ARS, BOB o BRL).
+
+:small_orange_diamond:el programa consulta la Exchange Rate API para obtener las tasas de cambio actuales.
+
+:small_orange_diamond:El programa realiza la conversión y muestra el resultado en pantalla.
+
+<img align="right" alt="usuario elige la moneda"  src="https://github.com/user-attachments/assets/8748d9f4-bfc7-4491-a764-0a7bf286d0c9">
 <br>
 <!--Requisitos-->
 <br>
@@ -114,7 +122,7 @@
 
 :small_orange_diamond:Actualiza la variable API_URL si es necesario.
 
-<img align="right" alt="GIF" height="150px" src="https://github.com/user-attachments/assets/209633cb-fe83-4c6f-97be-5874b1a15486">
+<img align="right" alt="api" height="150px" src="https://github.com/user-attachments/assets/209633cb-fe83-4c6f-97be-5874b1a15486">
 <br>
 <!--Notas importantes-->
 <br>
