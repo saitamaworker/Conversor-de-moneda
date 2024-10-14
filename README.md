@@ -77,6 +77,9 @@
 :small_orange_diamond:El programa te mostrará el monto convertido en la moneda seleccionada.
 
 :small_orange_diamond:Continúa convirtiendo si lo deseas, o selecciona "n" para finalizar el programa.
+
+![Conversor_De_Moneda](https://github.com/user-attachments/assets/8a48845c-87fd-4230-abf3-fec07803fc9b)
+
 <br>
 <!--Herramientas utilizadas-->
 <br>
@@ -99,8 +102,11 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## 📡 <b>API UTILIZADA<b>
+## 📡 <b>API UTILIZADA <b>
 <br>
+
+👉API_URL = "https://v6.exchangerate-api.com/v6/YOUR_API_KEY/latest/USD".
+
 
 :small_orange_diamond:Este proyecto utiliza la Exchange Rate API para obtener las tasas de cambio. 
 
@@ -108,7 +114,7 @@
 
 :small_orange_diamond:Actualiza la variable API_URL si es necesario.
 
-:point_right:API_URL = "https://v6.exchangerate-api.com/v6/YOUR_API_KEY/latest/USD".
+<img align="right" alt="GIF" height="150px" src="https://github.com/user-attachments/assets/209633cb-fe83-4c6f-97be-5874b1a15486">
 <br>
 <!--Notas importantes-->
 <br>
@@ -125,9 +131,6 @@
 <!--Contacto-->
 <br>
 
-
-<!--Github Logo Credits-->
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <br>
